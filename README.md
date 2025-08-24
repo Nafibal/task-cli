@@ -1,4 +1,3 @@
-````markdown
 # 📝 Task CLI
 
 A simple command-line **task manager** built with Go.  
@@ -23,7 +22,7 @@ You can add, update, delete, and list tasks stored in a JSON file.
    ```bash
    git clone https://github.com/yourusername/task-cli.git
    cd task-cli
-````
+
 
 2. Build the binary:
 
