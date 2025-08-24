@@ -3,6 +3,8 @@
 A simple command-line **task manager** built with Go.  
 You can add, update, delete, and list tasks stored in a JSON file.
 
+solution for the [task-tracker](https://roadmap.sh/projects/task-tracker) challenge from [roadmap.sh](https://roadmap.sh/).
+
 ---
 
 ## 🚀 Features
